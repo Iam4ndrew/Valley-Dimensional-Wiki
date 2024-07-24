@@ -18,7 +18,7 @@ Se añade una mochila con el siguiente crafteo:
 
 ![mochila](https://github.com/MiguelVeraXd/Valley-Dimensional-Wiki/blob/main/Main/Wiki/assets/crafteo/mochila.png)
 
-## Cambio al Vanilla
+## Cambios al Gameplay Vanilla
 
 El totem cambia su crafteo al siguiente:
 
